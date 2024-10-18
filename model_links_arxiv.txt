@@ -1,0 +1,4 @@
+Model Link: https://huggingface.co/rain1011/pyramid-flow-sd3, arXiv Tags: arxiv:2410.05954
+Model Link: https://huggingface.co/SWivid/F5-TTS, arXiv Tags: arxiv:2410.06885
+Model Link: https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF, arXiv Tags: arxiv:2410.01257, arxiv:2405.01481, arxiv:2406.08673
+Model Link: https://huggingface.co/rhymes-ai/Aria, arXiv Tags: arxiv:2410.05993
